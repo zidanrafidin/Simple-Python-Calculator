@@ -22,26 +22,3 @@ Ini adalah proyek kalkulator sederhana yang dibuat menggunakan Python. Kode ini 
     * Pembagian (`/`)
 * **Peringatan Pembagian dengan Nol**: Program akan memberikan pesan *error* jika mencoba membagi angka dengan nol.
 * Antarmuka baris perintah yang mudah digunakan.
-
-## Cara Menggunakan
-
-1.  **Kloning repositori ini** ke komputer kamu:
-    ```bash
-    git clone [https://github.com/NAMAPENGGUNA/simple-python-calculator.git](https://github.com/NAMAPENGGUNA/simple-python-calculator.git)
-    ```
-    *(Pastikan kamu mengganti `NAMAPENGGUNA` dengan username GitHub kamu dan `simple-python-calculator.git` dengan nama repositori kamu.)*
-
-2.  **Masuk ke direktori proyek**:
-    ```bash
-    cd simple-python-calculator
-    ```
-
-3.  **Jalankan program** menggunakan Python:
-    ```bash
-    python nama_file_kalkulator_kamu.py
-    ```
-    *(Ganti `nama_file_kalkulator_kamu.py` dengan nama file Python yang berisi kode kalkulatormu, misalnya `calculator.py` atau `main.py`.)*
-
-4.  Ikuti instruksi yang muncul di layar untuk memasukkan angka dan memilih operasi.
-
-## Contoh Penggunaan
