@@ -1,6 +1,3 @@
-# Simple-Python-Calculator
-Kalkulator dasar ini dibangun dengan Python untuk membantu pemula memahami konsep dasar pemrograman seperti input/output, operasi aritmatika, percabangan kondisional (if-elif-else), dan penanganan error sederhana (pembagian dengan nol).
-
 # Simple Python Calculator
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
